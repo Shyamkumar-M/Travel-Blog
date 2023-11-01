@@ -1,6 +1,6 @@
 # Travel-Blog
 
-Getting Started To access the website, simply visit the website URL (# Travel-Blog"https://cad-travelblog.s3.ams03.cloud-object-storage.appdomain.cloud/CAD-travelblog/index.html"). There is no need to install any additional software or dependencies as it's a static website.
+Getting Started To access the website, simply visit the website URL ([# Travel-Blog](https://cad-travelblog.s3.ams03.cloud-object-storage.appdomain.cloud/CAD-travelblog/index.html)). There is no need to install any additional software or dependencies as it's a static website.
 
 Navigation The website is easy to navigate, with a few key sections:
 
